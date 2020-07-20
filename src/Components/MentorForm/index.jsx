@@ -63,6 +63,9 @@ class MentorForm extends Component{
             <Container>
                 <Row>
                 <Col xs="12">
+                    <h1>Has Un Registro</h1>
+                </Col>
+                <Col xs="12">
                     <Form className="bg-dark text-white p-3 mt-3 border rounded">
                     <FormGroup>
                         <Label for="name">Nombre:</Label>
